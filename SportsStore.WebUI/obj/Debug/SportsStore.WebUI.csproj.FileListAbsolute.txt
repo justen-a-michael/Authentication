@@ -33,9 +33,3 @@ C:\Users\Justen\Documents\Desktop\Chapter 07\SportsStore\SportsStore.WebUI\bin\S
 C:\Users\Justen\Documents\Desktop\Chapter 07\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
 C:\Users\Justen\Documents\Desktop\Chapter 07\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
 C:\Users\Justen\Documents\Desktop\Chapter 07\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
-C:\Users\Justen\Documents\Desktop\Chapter 07\SportsStore\SportsStore.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
-C:\Users\Justen\Documents\Desktop\Chapter 07\SportsStore\SportsStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\Justen\Documents\Desktop\Chapter 07\SportsStore\SportsStore.WebUI\bin\Newtonsoft.Json.dll
-C:\Users\Justen\Documents\Desktop\Chapter 07\SportsStore\SportsStore.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
-C:\Users\Justen\Documents\Desktop\Chapter 07\SportsStore\SportsStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\Justen\Documents\Desktop\Chapter 07\SportsStore\SportsStore.WebUI\bin\Newtonsoft.Json.xml
